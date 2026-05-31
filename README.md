@@ -22,3 +22,17 @@
 ---
 
 ## Architecture
+
+` ` `
+CICIDS 2017 Network Traffic (221K flows)
+        ↓
+Feature Engineering + StandardScaler
+        ↓
+Random Forest Classifier (100 trees)
+        ↓
+Flask REST API (/predict, /alerts, /stats)
+        ↓
+Azure Sentinel Log Analytics
+` ` `
+
+---
