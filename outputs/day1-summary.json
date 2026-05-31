@@ -1,0 +1,8 @@
+{
+  "total_rows": 221264,
+  "total_columns": 78,
+  "benign_count": 93250,
+  "ddos_count": 128014,
+  "missing_values": 0,
+  "infinite_values": 0
+}
